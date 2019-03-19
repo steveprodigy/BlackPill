@@ -1,0 +1,20 @@
+h2 {
+  text-align: center;
+  color: rgb(255,0,20);
+}
+ p {
+   font-family: sans-serif
+  
+ }
+img {
+  float: left;
+  width: 300px;
+  margin: 10px;
+  border-color: darkred;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+body {
+  background: rgb(120,120,120);
+}
